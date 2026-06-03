@@ -1,0 +1,285 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.top-red-menu{
+    background-color: rgb(172, 36, 36);
+    height: 40px;
+    padding-top: 20px;
+}
+.top-red-menu ul a{
+    color: white;
+    text-decoration: none;
+    padding-left: 20px;
+}
+.top-red-menu :hover{
+    color: orange;
+}
+.logo-item{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 50px;
+    /* background-color: blueviolet; */
+}
+#img{
+    width: 100%;
+}
+.call-icon{
+    display: flex;
+    margin-left: 370px;
+    /* margin: 80px;
+    /* background-color: bisque; */
+    /* padding: 10px; */
+}
+.call-icon:hover{
+    background-color: rgb(8, 65, 131);
+    border-radius: 20px rgb(4, 38, 77);
+}
+.time-icon{
+    display: flex;
+    margin-left: 200px;
+    /* background-color: bisque; */
+    /* padding: 10px; */
+}
+.menu-bar{
+    background-color: rgb(4, 38, 77);
+    height: 45px;
+    padding-top: 30px;
+    text-align: center;
+    align-items: center; 
+    position: sticky;
+    top: 0; /* This means it will stick to the top of the viewport when scrolling */
+    z-index: 1000;
+}
+.menu-bar #a{
+    margin-right: 20px;
+    text-decoration: none;
+}
+.menu-bar .a :hover #qasim{
+      background-color: aliceblue;
+}
+
+.menu-bar a{
+    color: aliceblue;
+    text-decoration: none;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+.menu-bar a:hover{
+    color: orange;
+}
+.main-para-img{
+    display: flex;
+    align-items: center;
+    margin-top: 80px;
+    margin-left: 80px;
+
+}
+.h2-p{
+     /* background-color: brown; */
+     width: 40%;
+     height: 50px;
+     margin-left: 150px;
+     display: block;
+     padding: 20px;
+     line-height: 30px;
+}
+.main-img{
+    padding: 20px;
+    width: 40px;
+    height: 50px;
+}
+.chr-imag-messg{
+    margin-top: 30%;
+    margin-left: 37%;
+    width: 500px;
+    /* background-color: aquamarine; */
+}
+#chairman{
+    padding-top: 30px;
+    margin-left: 35px;
+}
+.chr-par-name{
+    padding-top: 20px ;
+    margin-left: 23%;
+    width: 650px; 
+    color: gray;
+    line-height: 20px;
+    /* background-color: aquamarine;   */
+}
+.name{
+    padding-top: 20px ;
+    margin-left: 38%;
+    /* background-color: brown; */
+    display: inline-block;
+}
+.colg{
+    padding-top: 10px ;
+    margin-left: 38%;
+    display: inline-block;
+}
+.BUtton-para{
+    padding-top: 10%;
+    margin-left: 60px;
+    /* background-color:  rgb(4, 38, 77); */
+}
+.BUtton-para p{
+    background-color:  rgb(4, 38, 77);
+    height: 40px;
+    width: 1100px;
+    /* padding-top: 10px; */
+    color: white;
+}
+.BUtton-para button{
+    background-color: rgba(247, 12, 12, 0.897);
+    height: 40px;
+    width: 40px;
+}
+.BUtton-para-two{
+    padding-top: 10px;
+    margin-left: 60px;
+    /* background-color:  rgb(4, 38, 77); */
+}
+ .BUtton-para-two p {
+    background-color:  rgb(4, 38, 77);
+    height: 40px;
+    width: 1100px;
+    /* padding-top: 10px; */
+    color: white;
+}
+.BUtton-para-two button{
+    background-color: rgba(247, 12, 12, 0.897);
+    height: 40px;
+    width: 40px;
+}
+.BUtton-para-three{
+    padding-top: 10px;
+    margin-left: 60px;
+    /* background-color:  rgb(4, 38, 77); */
+}
+ .BUtton-para-three p {
+    background-color:  rgb(4, 38, 77);
+    height: 40px;
+    width: 1100px;
+    /* padding-top: 10px; */
+    color: white;
+}
+.BUtton-para-three button{
+    background-color: rgba(247, 12, 12, 0.897);
+    height: 40px;
+    width: 40px;
+}
+.BUtton-para-four{
+    padding-top: 10px;
+    margin-left: 60px;
+    /* background-color:  rgb(4, 38, 77); */
+}
+ .BUtton-para-four p {
+    background-color:  rgb(4, 38, 77);
+    height: 40px;
+    width: 1100px;
+    /* padding-top: 10px; */
+    color: white;
+}
+.BUtton-para-four button{
+    background-color: rgba(247, 12, 12, 0.897);
+    height: 40px;
+    width: 40px;
+}
+.BUtton-para-five{
+    padding-top: 10px;
+    margin-left: 60px;
+    /* background-color:  rgb(4, 38, 77); */
+}
+ .BUtton-para-five p {
+    background-color:  rgb(4, 38, 77);
+    height: 40px;
+    width: 1100px;
+    /* padding-top: 10px; */
+    color: white;
+}
+.BUtton-para-five button{
+    background-color: rgba(247, 12, 12, 0.897);
+    height: 40px;
+    width: 40px;
+}
+.BUtton-para-six{
+    padding-top: 10px;
+    margin-left: 60px;
+    /* background-color:  rgb(4, 38, 77); */
+}
+ .BUtton-para-six p {
+    background-color:  rgb(4, 38, 77);
+    height: 40px;
+    width: 1100px;
+    /* padding-top: 10px; */
+    color: white;
+}
+.BUtton-para-six button{
+    background-color: rgba(247, 12, 12, 0.897);
+    height: 40px;
+    width: 40px;
+}
+.BUtton-para-seven{
+    padding-top: 10px;
+    margin-left: 60px;
+    /* background-color:  rgb(4, 38, 77); */
+}
+ .BUtton-para-seven p {
+    background-color:  rgb(4, 38, 77);
+    height: 40px;
+    width: 1100px;
+    /* padding-top: 10px; */
+    color: white;
+}
+.BUtton-para-seven button{
+    background-color: rgba(247, 12, 12, 0.897);
+    height: 40px;
+    width: 40px;
+}
+.N-V{
+    padding-top: 12%;
+    margin-left: 50px;
+}
+.news-views{
+    padding-top: 5%;
+    display: flex;
+    /* background-color: bisque; */
+}
+.news-views #first-pick{
+    /* background-color: aquamarine; */
+    width: 30%;
+    padding-left: 35px;
+    margin: 20px;
+    margin-left: 165px;
+}
+.news-views #first-pick p{
+    line-height: 20px;
+}
+.news-views #secd-pick{
+    /* background-color: rgb(129, 143, 138); */
+    width: 30%;
+    padding-left: 50px;
+    margin: 20px;
+}
+.news-views #secd-pick p{
+    line-height: 20px;
+}
+ 
+footer{
+    padding-top: 180px;
+}
+.footer-divs{
+    height: 100%;
+    background-color: black;
+    display: flex;
+    color: white;
+    padding-top: 90px;
+}
+.footer-divs div{
+    margin-left: 130px;
+     /* background-color:rgb(253, 225, 68);  */
+    width: 180px
+}
+
